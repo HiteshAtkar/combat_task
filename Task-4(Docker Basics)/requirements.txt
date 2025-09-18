@@ -1,0 +1,3 @@
+langchain-perplexity
+langchain-core
+python-dotenv
