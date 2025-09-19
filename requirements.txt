@@ -37,11 +37,17 @@ langchain-core==0.3.76
 langchain-google-genai==2.0.10
 langchain-huggingface==0.3.1
 langchain-openai==0.3.33
+langchain-perplexity==0.1.2
 langchain-text-splitters==0.3.11
+langgraph==0.6.7
+langgraph-checkpoint==2.1.1
+langgraph-prebuilt==0.6.4
+langgraph-sdk==0.2.8
 langsmith==0.4.28
 numpy==2.2.6
 openai==1.107.3
 orjson==3.11.3
+ormsgpack==1.10.0
 packaging==25.0
 proto-plus==1.26.1
 protobuf==5.29.5
@@ -71,4 +77,5 @@ typing-inspection==0.4.1
 typing_extensions==4.15.0
 uritemplate==4.2.0
 urllib3==2.5.0
+xxhash==3.5.0
 zstandard==0.25.0
